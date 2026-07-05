@@ -16,3 +16,12 @@ MLP captured non-linearities better than the baseline model
 **Confusion Matrix : Linear Regression vs MLP**
 <img width="1174" height="490" alt="image" src="https://github.com/user-attachments/assets/1b58c390-9034-4e4a-9f33-ac9896b63157" />
 
+
+## 👤 Author
+
+**Bhrugu Vyas**  
+Senior Data Analyst - JP Morgan Chase    
+| MTech AI/ML — BITS Pilani
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bhruguvyas/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/bhruguvyas)
